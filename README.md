@@ -5,7 +5,7 @@ Dataset used from below source : <br>
 <br>
 <br>
 The Tweets sentiment analysis is used to analyse the tweets
-whether the tweets are <b>Positive</b> and <b>Negative</b>
+whether the tweets are really <b>Positive</b> and <b>Negative</b>
 at last get to know how much percentage of tweets are 
 TP = True Positive, TN = True Negative, FP = False Positive, FN = False Negative 
 using <b>Confusion Matrix <b>
