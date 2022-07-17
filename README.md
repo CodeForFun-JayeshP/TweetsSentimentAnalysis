@@ -1,4 +1,4 @@
 # TweetsSentimentAnalysis
-Analyse the tweet sentiments
-Dataset used is from below source :
-<a href = "https://www.kaggle.com/datasets/kazanova/sentiment140">Dataset</a>
+Analyse the tweet sentiments <br>
+Dataset used is from below source : <br>
+<a href = "https://www.kaggle.com/datasets/kazanova/sentiment140">Sentiment140 dataset with 1.6 million tweets</a>
